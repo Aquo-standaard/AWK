@@ -9,7 +9,7 @@ var respecConfig = {
     alt: "Aquo",
     width: 252,
     height: 130,
-    id: 'BRO'},
+    id: 'AWK'},
   {
     src: 'https://cuatro.sim-cdn.nl/ihw/uploads/styles/logo/media/ihw_logo_def_taglines.png?cb=ZxTlKJiY',
     href: "https://www.ihw.nl",
@@ -29,8 +29,8 @@ var respecConfig = {
   shortName: "AWK",
   pubDomain: "IMWA",
   github: "https://github.com/Aquo-standaard/AWK",
-  previousPublishDate: "26-04-2023",
-  previousStatus: "GN-DEF",
+  previousPublishDate: "2023-04-26",
+  previousStatus: "AQ-WV",
   localBiblio: {
     
     },
